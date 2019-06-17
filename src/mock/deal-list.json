@@ -1,0 +1,598 @@
+{
+    "code": 200,
+    "data": {
+        "isEnd": false,
+        "discountCouponList": [{
+            "commonCouponDTO": {
+                "couponId": "1238433094",
+                "couponName": "15店通用招牌鲜辣披萨5折现金券",
+                "subTitle": "周一周二可用",
+                "couponType": 1,
+                "primeCost": 130,
+                "discountCost": 5,
+                "discountTag": "5折",
+                "couponStatus": -1,
+                "couponTag": null,
+                "couponPic": "https://p0.meituan.net/activityback/1ad9702e20c9cb3ac05efe31f6bb8d3a133048.jpg",
+                "validStart": 1557676800000,
+                "validEnd": 1563031800000,
+                "shopIdCounts": null,
+                "shopIds": null
+            },
+            "shopBaseInfo": {
+                "shopId": 124612832,
+                "shopName": "111号打邊爐",
+                "branchName": "房山昊天宾馆店",
+                "shopPic": "https://img.meituan.net/msmerchant/d7ac2d50d92fcf5089d14951ca65eb2d199523.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+                "power": "45",
+                "region": "",
+                "distance": "569m",
+                "phoneNo": "89351799",
+                "avgPrice": "127",
+                "shopAddress": "拱辰大街1号昊天酒店1层",
+                "doubleDistance": null
+            },
+            "simpleReviewData": {
+                "reviewId": 548284709,
+                "reviewBody": "这家店在房山昊天酒店的一层，交通非常便利。环境一流。我中的双人霸王餐，实际我们来了三个人吃饭，本想不够再添俩菜，结果没添菜还吃到撑的够呛。\n    金汤花胶鸡煲属于港式火锅，真的超棒！锅底的海鲜汤据说熬N小时，非常浓稠，味道非常鲜美，非常好喝。汤里有半只鸡、鱼肚、花胶、海螺片、白萝卜、红萝卜、玉米，量大实惠，质量也绝不糊弄，印象里海螺片比较不易咬的都煮的非常入味非常好咬，入口即化的感觉。喝完浓汤，吃完这些菜，再加汤涮牛肉和青菜。然后把锅换掉，由服务员给做黄金泡饭，这个也得到了我们一致的好评！它是由大米饭、炸米、还有虾仁、牛肉粒、香芋、香菇、蟹棒、咸菜粒、薏米、莲子、葱花、香菜等十多种食材，放在海鲜汤里煮好搅拌，看着就香有木有？有，真的好吃到爆。菜品这么好吃，量还特实惠，价格不贵，性价比很高。一边吃一边就给朋友打电话约下次了，还会再吃。",
+                "reviewBodyLength": 367,
+                "reviewTime": "05月16日",
+                "qualityScore": 1,
+                "prize": null,
+                "userInfo": {
+                    "userId": 1126759988,
+                    "headPic": "https://p1.meituan.net/userheadpicbackend/1bd5e6ff3048878b33acf83f574f000d106660.jpg%4048w_48h_1e_1c_1l%7Cwatermark%3D0",
+                    "nickName": "远方深处有人家",
+                    "vaildReceiveCount": null,
+                    "vipType": 1,
+                    "level": 6,
+                    "colorLevel": 1,
+                    "userIsPracticingVO": {
+                        "practicing": false,
+                        "pic": null,
+                        "profilePic": null
+                    }
+                },
+                "reviewPic": ["https://qcloud.dpfile.com/pc/SXEu0Zv3d8uXr-wsLixIhdnFfOp0gUYcPU49k6EWgVFlz5pEXaAjfdXiOZWKlHBN.jpg", "https://qcloud.dpfile.com/pc/MMjilRuXDOo0hmbi-lBVOHq_IaGz-Fn8Yddic6yl3N83iDdF5UYbbYdtD-RiYuiO.jpg", "https://qcloud.dpfile.com/pc/kN9wZynqaN9QZTHK6UzWg5h6ROvYSQLg3H2VxGX6YbOjHZ5OokmLsfkH9tmUtyYH.jpg", "https://qcloud.dpfile.com/pc/r9kW0v_psnq8h8iu_R0DjAR7frecalTa4URhyDWqw8e56EISlgjLzgwh0hzIGbsL.jpg", "https://qcloud.dpfile.com/pc/BFj9a86vMebV2Hh0rwQFVNqU4gTGOpynRwMHYcymRLKsbwazuSlTR2KHQZVNKMZb.jpg", "https://qcloud.dpfile.com/pc/NoEO_-SupdPEo8ufIwr3Z53M0_vNFSjB2dw1ANa9e67mCHNL36KrjfmGKm7o_t8T.jpg", "https://qcloud.dpfile.com/pc/R-CDBzo1tdBtiPTaHqISChKwHC4cp8almURyRSfTtYnxV3YSXqLArYwJ4DwrCodA.jpg", "https://qcloud.dpfile.com/pc/lmvTumNmkf0VTwhF3h0QPefGv9bPpZwra799vNxI-LYs-NirLunxqSrq2ypWZ3UE.jpg", "https://qcloud.dpfile.com/pc/Xcl3B_eYR6ATd6eZT27JWtkkD6oUR7mDXanepYRNlPgdWFMDZue1tv2d7Lpf3MXh.jpg", "https://qcloud.dpfile.com/pc/IvE331O18qv4nWsnu7Z4Btgk70N4ut2rSQavzDSouM8rg3bZmogVH6Ln8ywR4Guo.jpg"],
+                "star": {
+                    "title": "总体评价",
+                    "value": 50,
+                    "desc": "超赞"
+                },
+                "recommendDish": null
+            }
+        }, {
+            "commonCouponDTO": {
+                "couponId": "816196815",
+                "couponName": "313羊庄·铁锅烀羊肉(西三旗店)菜品主食5折券",
+                "subTitle": "周一至周日可用",
+                "couponType": 1,
+                "primeCost": 96,
+                "discountCost": 5,
+                "discountTag": "5折",
+                "couponStatus": -1,
+                "couponTag": null,
+                "couponPic": "https://p0.meituan.net/activityback/d66e9d8accf5cb4f292a4d0720a6649115089.jpg",
+                "validStart": 1555862400000,
+                "validEnd": 1561217400000,
+                "shopIdCounts": null,
+                "shopIds": null
+            },
+            "shopBaseInfo": {
+                "shopId": 122316658,
+                "shopName": "313羊庄·铁锅烀羊肉",
+                "branchName": "西三旗店",
+                "shopPic": "https://img.meituan.net/msmerchant/7ea45874f9005d05c4d28a4005a8c64e123332.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+                "power": "50",
+                "region": "泰山饭店北侧",
+                "distance": "",
+                "phoneNo": "62958690",
+                "avgPrice": "94",
+                "shopAddress": "安宁庄后街",
+                "doubleDistance": null
+            },
+            "simpleReviewData": {
+                "reviewId": 549186669,
+                "reviewBody": "吃饭好停车才是首选，周围有俩停车场，简直太棒了。\n一楼选肉，要的一斤羊腿肉，加了两块上脑，都是比较嫩、少肥肉少筋的部位。点了几串羊肉串，一串鸡翅，服务员推荐烤掌中是他家比较特色的，味道不同于别家，又加了几串掌中宝。二楼就餐，小菜和涮菜主食等需要扫描桌上的二维码自助点菜下单，加了份小鱼花生，冻豆腐，玉米还有他家特色小油条。\n吃肉先喝汤，头四碗汤分别清汤，加小葱香菜，加青料，加韭花酱。味道由淡到浓，鲜美无比。羊肉久煮不老，水果玉米香甜清脆，冻豆腐吸满了汤汁，最后再来点小油条沾着涮肉蘸料，美味……\n全程服务很好，选肉的时候本来还想再加点，服务员说够了够了，这些你们肯定还吃不完，果然……没吃完，哈哈。\n用了点评的菜品五折券，感谢点评，感谢店家的活动，这个价位吃到饱还打包了好多。太值了。",
+                "reviewBodyLength": 337,
+                "reviewTime": "05月18日",
+                "qualityScore": 1,
+                "prize": null,
+                "userInfo": {
+                    "userId": 11571812,
+                    "headPic": "https://p0.meituan.net/userheadpicbackend/670b2cf6f9bfadca5b90089d6dce739e78169.jpg%4048w_48h_1e_1c_1l%7Cwatermark%3D0",
+                    "nickName": "F1215J",
+                    "vaildReceiveCount": null,
+                    "vipType": 1,
+                    "level": 6,
+                    "colorLevel": 1,
+                    "userIsPracticingVO": {
+                        "practicing": false,
+                        "pic": null,
+                        "profilePic": null
+                    }
+                },
+                "reviewPic": ["https://qcloud.dpfile.com/pc/CaBbxpxaEvqW0yLWI384n28RdT5Cihfqof4Ao1Zh7kzdx-QC0dVvyjGAWRwmnrwX.jpg", "https://qcloud.dpfile.com/pc/OnRFIMqYiAH4YUBuzyqhShdQHnwNWp_1sCwfvWS3mmUStlc3tb2D46EPS2wRcTFF.jpg", "https://qcloud.dpfile.com/pc/9INq8n13WntWov-fzA3WyIT4ZaTsb2UhSQdI8bBAc1r1JqNcWwFU-9phykgJcvQC.jpg", "https://qcloud.dpfile.com/pc/VB3kOFZyjUMjIGfJsZ-80bIHsqNRZ8IvOD99kONPMtEd9t13dat5yGqvSlhooMNo.jpg", "https://qcloud.dpfile.com/pc/5-R0uCv2WwlWOiKWmCsG9xCIajMgxNHwcwbukmJj6lzuTEUwe6AXdZIGa6qWVvsc.jpg", "https://qcloud.dpfile.com/pc/4_ck_gT38D4VdbkBGL8nr-Hzh2oUBIlvvSJE668OcsrriQMPGggi2yKFd39HE4MY.jpg"],
+                "star": {
+                    "title": "总体评价",
+                    "value": 50,
+                    "desc": "超赞"
+                },
+                "recommendDish": null
+            }
+        }, {
+            "commonCouponDTO": {
+                "couponId": "1281924275",
+                "couponName": "正本原 Le Grenier à Pain全店5折券",
+                "subTitle": "周一至周日可用",
+                "couponType": 1,
+                "primeCost": 55,
+                "discountCost": 5,
+                "discountTag": "5折",
+                "couponStatus": -1,
+                "couponTag": null,
+                "couponPic": "https://p0.meituan.net/activityback/b6c366728c56d501dd9e69efe0752a704592638.jpg",
+                "validStart": 1558281600000,
+                "validEnd": 1563636600000,
+                "shopIdCounts": null,
+                "shopIds": null
+            },
+            "shopBaseInfo": {
+                "shopId": 98677850,
+                "shopName": "正本原 Le Grenier à Pain",
+                "branchName": "王府中环店",
+                "shopPic": "http://p0.meituan.net/bbia/e1ac5989c33f7a6d3ebf43c7ac8b37216101150.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+                "power": "40",
+                "region": "",
+                "distance": "",
+                "phoneNo": "65258586",
+                "avgPrice": "52",
+                "shopAddress": "王府井大街王府中环四层",
+                "doubleDistance": null
+            },
+            "simpleReviewData": {
+                "reviewId": 549896146,
+                "reviewBody": "正本原收藏了一段时间了，今天正好来王府井就过来看看，可惜来的比较晚了，苹果塔啥的都没了，只剩面包了，买了布列塔尼卷、羊角和布里欧，3个60，价格比想象中能接受哈哈。\n晚上大的谷物面包第二个半价～\n今天早上吃了，实测布列塔尼卷和法国当地味道无差，甜的让人太幸福了，布里欧的质地很回弹，放冰箱拿出来也不会觉得硬。",
+                "reviewBodyLength": 152,
+                "reviewTime": "05月20日",
+                "qualityScore": 1,
+                "prize": null,
+                "userInfo": {
+                    "userId": 2255462,
+                    "headPic": "https://p0.meituan.net/userheadpicbackend/7c3b8798030378e950da6f6a0732309f806973.jpg%4048w_48h_1e_1c_1l%7Cwatermark%3D0",
+                    "nickName": "magicsheng",
+                    "vaildReceiveCount": null,
+                    "vipType": 1,
+                    "level": 8,
+                    "colorLevel": 1,
+                    "userIsPracticingVO": {
+                        "practicing": false,
+                        "pic": null,
+                        "profilePic": null
+                    }
+                },
+                "reviewPic": ["https://qcloud.dpfile.com/pc/SwQAdFjJXVJacEZ8vphpvhQYLXyb5wwpeCrZzLiTLISaKF3WiTGKFQQjvS4o_t_2.jpg", "https://qcloud.dpfile.com/pc/nnrAL3jeMFj4_Lo_SR7zXIKFl4jZ_aBn1riGiBKdWBVMKGl33CQ-_7ixUcHgXC9-.jpg", "https://qcloud.dpfile.com/pc/AIsqZKUEXCFgw2rFEkwWhTnWxPxcRHs-g0MtCsgeqLc8Y7qtD6wd7xSIdmKiPJB9.jpg", "https://qcloud.dpfile.com/pc/4_JrqrXr7eSHDRGRkCPKr5lkdK5be0AyYhweeyuNVrgE86uPgTG04ebXFIQgSFFJ.jpg", "https://qcloud.dpfile.com/pc/PkoQ-hxxHX87-fUkNHjpRznahNKt_03Qh-bMEp_MUkwPu-sWyOM5Vp-C07zrDsmD.jpg", "https://qcloud.dpfile.com/pc/tH4MWAQKIUVjUTUH5wLH8EgC-fl8yXPp2MBFoyB3YNyWuNpRCk5lQzhHOkJFKAf8.jpg", "https://qcloud.dpfile.com/pc/0gkwhAhgUWx9-lWGxbbgL1j-bC9JQBnmaw8uUu_ZwyaBfe-4FQWzHbF75cwE-Xsc.jpg"],
+                "star": {
+                    "title": "总体评价",
+                    "value": 50,
+                    "desc": "超赞"
+                },
+                "recommendDish": null
+            }
+        }, {
+            "commonCouponDTO": {
+                "couponId": "119492265",
+                "couponName": "石器时代串吧(亚运村店)全店5折券",
+                "subTitle": "周一至周四可用",
+                "couponType": 1,
+                "primeCost": 90,
+                "discountCost": 5,
+                "discountTag": "5折",
+                "couponStatus": -1,
+                "couponTag": null,
+                "couponPic": "https://p0.meituan.net/activityback/972cecb06aa97de5c18a49cf9118c6f4104351.jpg",
+                "validStart": 1558281600000,
+                "validEnd": 1563636600000,
+                "shopIdCounts": null,
+                "shopIds": null
+            },
+            "shopBaseInfo": {
+                "shopId": 20843890,
+                "shopName": "石器时代串吧",
+                "branchName": "亚运村店",
+                "shopPic": "https://img.meituan.net/msmerchant/e2b7855d6874bccdb93b353cfcee1f77179164.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+                "power": "45",
+                "region": "马可波罗酒店西北角",
+                "distance": "",
+                "phoneNo": "64837178",
+                "avgPrice": "90",
+                "shopAddress": "四海凯悦休闲广场内2层",
+                "doubleDistance": null
+            },
+            "simpleReviewData": {
+                "reviewId": 549428782,
+                "reviewBody": "味道很不错、泡完汤泉良子去吃的、在四海凯悦二楼、一上楼就能看到、住这个附近但之前还真没去吃过、成功圈粉、烤好的串放在锡纸上、锡纸下面会有两个小蜡烛温着、吃着一直会是热的、首推小串、鸡爪还有秋葵、简直不要太好吃、人很多、需要等位所以建议提前去哦、走的时候还打包了一份拌饭、因为吃的太急忘记拍照就上图石锅拌饭的照片吧",
+                "reviewBodyLength": 156,
+                "reviewTime": "05月19日",
+                "qualityScore": 1,
+                "prize": null,
+                "userInfo": {
+                    "userId": 873001392,
+                    "headPic": "https://p1.meituan.net/userheadpicbackend/7fb9f1ee8f807aabf1ab6b19ee40e052887291.jpg%4048w_48h_1e_1c_1l%7Cwatermark%3D0",
+                    "nickName": "罂粟",
+                    "vaildReceiveCount": null,
+                    "vipType": 1,
+                    "level": 4,
+                    "colorLevel": 1,
+                    "userIsPracticingVO": {
+                        "practicing": false,
+                        "pic": null,
+                        "profilePic": null
+                    }
+                },
+                "reviewPic": ["https://qcloud.dpfile.com/pc/Meby9W308VB06qCK44DI7JopsibtyKq3vrMxo5vc7VVmjDt2OW_Af5Bp18shWGUp.jpg", "https://qcloud.dpfile.com/pc/i5jWzHihMaB-wwLo9ZWIqSReLtKIHIl0ltqD4B9n58BemhqfilNPGFmeqTp2ys2x.jpg", "https://qcloud.dpfile.com/pc/1LbExEm1J4opUZXWemS_RQo6V1WMkk_U6ibdHzFzlpm3WKIaErAhBnDEn7e7Jl-T.jpg"],
+                "star": {
+                    "title": "总体评价",
+                    "value": 50,
+                    "desc": "超赞"
+                },
+                "recommendDish": null
+            }
+        }, {
+            "commonCouponDTO": {
+                "couponId": "857804037",
+                "couponName": "【每天可用】黑泷太郎(2店)全店5折通用券",
+                "subTitle": "",
+                "couponType": 1,
+                "primeCost": 20,
+                "discountCost": 5,
+                "discountTag": "5折",
+                "couponStatus": -1,
+                "couponTag": null,
+                "couponPic": "https://p0.meituan.net/activityback/13087270a046efdb17dc3262739660f8212258.jpg",
+                "validStart": 1556553600000,
+                "validEnd": 1561908600000,
+                "shopIdCounts": null,
+                "shopIds": null
+            },
+            "shopBaseInfo": {
+                "shopId": 128339055,
+                "shopName": "黑泷太郎",
+                "branchName": "和平街店",
+                "shopPic": "https://img.meituan.net/msmerchant/72aeb80bd6b69426645024da8e8b8233102879.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+                "power": "50",
+                "region": "",
+                "distance": "",
+                "phoneNo": "17600299877",
+                "avgPrice": "28",
+                "shopAddress": "北三环东路和平街11区甲16号楼一层底商",
+                "doubleDistance": null
+            },
+            "simpleReviewData": {
+                "reviewId": 549531435,
+                "reviewBody": "「黑钻牛乳茶」不加糖也不错，里面的料就已经有一些甜度，「草莓坚果雪花酥」雪花酥每个味都尝了，超好吃！不是很甜！蛋黄味是咸甜的，很喜欢！\n[环境]不是很大，有三到四桌两人可以坐的地方，大都应该都是外卖，所以不得不提外卖的透明袋，超好看，可以循环利用当购物袋了[呲牙]\n[服务]出餐速度挺快的，服务员也很耐心",
+                "reviewBodyLength": 146,
+                "reviewTime": "05月19日",
+                "qualityScore": 1,
+                "prize": null,
+                "userInfo": {
+                    "userId": 39507739,
+                    "headPic": "https://p0.meituan.net/userheadpicbackend/47a21ebafdbc803956ca08c4209bfee5311045.jpg%4048w_48h_1e_1c_1l%7Cwatermark%3D0",
+                    "nickName": "aaaaaaaabbbccc",
+                    "vaildReceiveCount": null,
+                    "vipType": 1,
+                    "level": 5,
+                    "colorLevel": 1,
+                    "userIsPracticingVO": {
+                        "practicing": false,
+                        "pic": null,
+                        "profilePic": null
+                    }
+                },
+                "reviewPic": ["https://qcloud.dpfile.com/pc/rEy31FCOHnxR0arY0QlljnpbHSF-M2OykFxsXA_3MoQqliLLGSN0FzL6604CTVAS.jpg", "https://qcloud.dpfile.com/pc/Ka5RLhPSjnQPwKA6hueT7HFAhx-cPFUeeFla_dkzh6QZOQ2XLrw0dztc9HVYRLVc.jpg", "https://qcloud.dpfile.com/pc/YGLgVpGQc9Y2x2vbuACrRmwL51Of9-mQt1e9-Jw0tueJoWgs8iNnuQEcQBu1i4P1.jpg", "https://qcloud.dpfile.com/pc/ION4-deatVj9KscHUEfNT4HKV2B3JQUrscTL2dNsMR3mCHNL36KrjfmGKm7o_t8T.jpg", "https://qcloud.dpfile.com/pc/cBMxf5SL0tXN5NKbVlEsZhgO2Cyt6De0xWONCmY3SUr0BcvM2QuJz-KrMhB5wT1V.jpg", "https://qcloud.dpfile.com/pc/yOwQAEKZRCxb0RY5UZnSqbXiPIRuBHvfF4mUpawKqeuswbe5Bj2H0CU-GuCE21Je.jpg"],
+                "star": {
+                    "title": "总体评价",
+                    "value": 50,
+                    "desc": "超赞"
+                },
+                "recommendDish": null
+            }
+        }, {
+            "commonCouponDTO": {
+                "couponId": "144968484",
+                "couponName": "耕牛堂（訸記）潮汕鲜牛肉火锅(朝阳门旗舰店)全店5折券",
+                "subTitle": "每周日周一可用",
+                "couponType": 1,
+                "primeCost": 125,
+                "discountCost": 5,
+                "discountTag": "5折",
+                "couponStatus": -1,
+                "couponTag": null,
+                "couponPic": "https://p1.meituan.net/activityback/620f696ff54530df8056d6d888da6043173702.jpg",
+                "validStart": 1557590400000,
+                "validEnd": 1562945400000,
+                "shopIdCounts": null,
+                "shopIds": null
+            },
+            "shopBaseInfo": {
+                "shopId": 68961224,
+                "shopName": "耕牛堂（訸記）潮汕鲜牛肉火锅",
+                "branchName": "朝阳门旗舰店",
+                "shopPic": "https://img.meituan.net/msmerchant/107aad1d7c78cba1874f66c959e6357a75660.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+                "power": "45",
+                "region": "华普超市大门往东20米",
+                "distance": "",
+                "phoneNo": "65804181",
+                "avgPrice": "126",
+                "shopAddress": "朝阳门外大街17号祥业大厦二层",
+                "doubleDistance": null
+            },
+            "simpleReviewData": {
+                "reviewId": 549948258,
+                "reviewBody": "本想晚些时候再去，但那草一直在涨，前两年吃过它家就很好印象了，现在加上海鲜更是我之所爱。赶上个大风天但想想外边天气吃起来更顺心些。\n选的海鲜自助:159元的原价，借点评会员的福，买一送一哈哈！可以选鲍鱼或者辽参，但今天辽参没了，留点遗憾吧！\n海鲜拼里差不多8样，根据食客选择的来拼，其他可以单点，一开始怕点多了吃不完，所以我们还蛮斯文哈哈！当然最重要一点最后我们光盘行动。\n就冲价格今天也必须给5星，何况今天的菜品真是不错，小鲍鱼鲜活无比，我都觉得自己挺残忍。\n胸口油烫完脆感十足。\n牛肉组合虽然和之前吃的牛肉墙不能比但也都是整肉，并没给边角料。但一定注意刷烫时间。\n锅底和牛爸一清一辣，完美组合，清汤涮牛肉和素菜，但真对不住老板 今天素菜我们就要了金针菇和茼蒿。\n阿根廷红虾是我超爱的，个大，还人品爆发遇到了一个有虾膏的！\n点了太多了，生蚝天鹅蛋小大闸蟹（呜呜，人家的大闸蟹我看着黄满满的，怎么我的就空空的）大虾等等 看个人喜好吧！\n总结，这样的菜品原价也可以作为定点了。今天很抱歉让老板可能亏了。",
+                "reviewBodyLength": 439,
+                "reviewTime": "05月19日",
+                "qualityScore": 1,
+                "prize": null,
+                "userInfo": {
+                    "userId": 2450336,
+                    "headPic": "https://p1.meituan.net/userheadpicbackend/859278ef4e04a3d6dd5163e8d66fd2dc44052.jpg%4048w_48h_1e_1c_1l%7Cwatermark%3D0",
+                    "nickName": "莹莹宝儿",
+                    "vaildReceiveCount": null,
+                    "vipType": 1,
+                    "level": 5,
+                    "colorLevel": 1,
+                    "userIsPracticingVO": {
+                        "practicing": false,
+                        "pic": null,
+                        "profilePic": null
+                    }
+                },
+                "reviewPic": ["https://qcloud.dpfile.com/pc/EcGNdE89rG9WM6C4WNEyQCCyA00Ec9LSxT0ehx8jrEDxFSC0ofrhC9zwMlfBTCHs.jpg", "https://qcloud.dpfile.com/pc/pnxaNAsUZbp5YCiQgQ4_gk1erpzQEpG2XGqUkLhVo8ALeRH_uHl9qBQHIwIxPC2T.jpg", "https://qcloud.dpfile.com/pc/NcRVasxBAj3LwAjlFyU76_-M-yN_Ulwd57iq8--BAaGuqZTqhd8pQV-AniHtbnK-.jpg", "https://qcloud.dpfile.com/pc/_yqg7A9he08CQVKXPiD3Ww_qUIlEeN6HohPFxJAb7QLGPIXIS1g7rUj60ItbPWvW.jpg", "https://qcloud.dpfile.com/pc/qma69fjVB1cQRw9V_bN6HCSUPh_l3lKR8VmrtavN05f6yiiYeocFIjl9YnOm2Umq.jpg", "https://qcloud.dpfile.com/pc/NvpBXCdOqX8lI1Xt2ozV3SZctyhODvPqmP4uqp_UGRipI5D4vJpVWQRcU3vytK-o.jpg", "https://qcloud.dpfile.com/pc/Ow_PTlA-EoDwbn5a-yot3BXI1ZfknmWLCXvRVbL1FpBOu8vYrA0bJTaFC25K2wer.jpg", "https://qcloud.dpfile.com/pc/9q71UUCwBat8uoweId1i4wfG7C2DvCcs8v-7gogVzkh4NdJMja_-2iwACqWuXMbu.jpg", "https://qcloud.dpfile.com/pc/SqOdVguRFl_yFsriAnEx4D8UaWlkz5enZCpBH7od1sGkjN8bNUIedMn0CzPJ61Sv.jpg", "https://qcloud.dpfile.com/pc/pe7nbnTwyVEW07XgaM8GSydLhhq3DSALLimdc_TXiCBpZx3r7oUAILhtTEl9N8t1.jpg", "https://qcloud.dpfile.com/pc/klNk9HqrF72dgqbiPaKa_g4H2c0-GYoZA8uxVzEuX5-M4vXvPU2M4-O9fulXavWg.jpg", "https://qcloud.dpfile.com/pc/9kneZBqn-l6365kPNtNweMeCpCl5lby4Amg6xvRUPnpFv4sxV7lda77-V7oOm3Rb.jpg", "https://qcloud.dpfile.com/pc/acy5iMwsoJ4R2uh3u1R2TMmDnZR_7zcL9HyOD3Q6YFjGPIXIS1g7rUj60ItbPWvW.jpg"],
+                "star": {
+                    "title": "总体评价",
+                    "value": 50,
+                    "desc": "超赞"
+                },
+                "recommendDish": null
+            }
+        }, {
+            "commonCouponDTO": {
+                "couponId": "887055515",
+                "couponName": "怡园四季新派火锅全店4折通用券",
+                "subTitle": "周一至周日可用",
+                "couponType": 1,
+                "primeCost": 157,
+                "discountCost": 4,
+                "discountTag": "4折",
+                "couponStatus": -1,
+                "couponTag": null,
+                "couponPic": "https://p0.meituan.net/activityback/91f4fcaec09d0c49ca302d3d47d251f696774.jpg",
+                "validStart": 1557849600000,
+                "validEnd": 1563204600000,
+                "shopIdCounts": null,
+                "shopIds": null
+            },
+            "shopBaseInfo": {
+                "shopId": 128089314,
+                "shopName": "怡园四季新派火锅",
+                "branchName": "",
+                "shopPic": "https://img.meituan.net/msmerchant/70efdbbb366534035afa7f85f6039bd56373050.png%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+                "power": "45",
+                "region": "日坛北门西侧",
+                "distance": "",
+                "phoneNo": "53687885",
+                "avgPrice": "141",
+                "shopAddress": "日坛北路6号",
+                "doubleDistance": null
+            },
+            "simpleReviewData": {
+                "reviewId": 549636745,
+                "reviewBody": "[环境]在日坛国际的南门对面马路。\n\n用了大众点评的V橙特惠券，简直太值了！\n\n「原味椰子鸡火锅/只」椰子鸡火锅味道还不错，主要是椰子仁剥开吃真的好幸福呀，每次吃椰子我都要吃芯，这家店可以把椰子帮忙劈来，就很美。\n\n重点推荐的是环境！！！楼下四面环绕投影的设计很巧妙的遮盖了地下室压抑的感觉，反而让人觉得别有洞天。\n\n吃了一个半小时，一共经历了3个主题，分别是荷畔、星空和桃花岛。不得不说，在美景里吃饭还是十分让人心情愉悦的。\n\n[服务]服务很好，服务员们的服务都很热情到位。不过十桌左右在吃只有三个人服务员，感觉她们要忙到飞起了，真的不容易。餐后还送了果盘，说是如果照顾不周很抱歉。想说你们已经很努力了！为你们点赞！\n\n推荐大家来[调皮]",
+                "reviewBodyLength": 302,
+                "reviewTime": "05月19日",
+                "qualityScore": 1,
+                "prize": null,
+                "userInfo": {
+                    "userId": 32303877,
+                    "headPic": "https://p0.meituan.net/userheadpicbackend/41b766c3668ce51dc611edd3c1a24def1458549.jpg%4048w_48h_1e_1c_1l%7Cwatermark%3D0",
+                    "nickName": "Serendipity_LC",
+                    "vaildReceiveCount": null,
+                    "vipType": 1,
+                    "level": 7,
+                    "colorLevel": 1,
+                    "userIsPracticingVO": {
+                        "practicing": false,
+                        "pic": null,
+                        "profilePic": null
+                    }
+                },
+                "reviewPic": ["https://qcloud.dpfile.com/pc/WkjLUSquY1roz2UpQ5YoDYHfZTaB_lVt7JBLJqwLl1dHcNdd0rKT_yP6s6vaki9A.jpg", "https://qcloud.dpfile.com/pc/QlUvNBKgoeuZuJ5AHPql76jxxq5EP_Z7zQltNND0AcFuzSP7hemM7GXL13uADlj9.jpg", "https://qcloud.dpfile.com/pc/Gpm2HCskHM2JklR1FlnH5sXBr16rrqSSiwQvdz-DyZPpqTg87z100tVJ1qsK6cPl.jpg", "https://qcloud.dpfile.com/pc/NoFDAfYwRdJU-am6nL-8FOAfhum0C70LcdFlfI6t7XPGoXdRp1aisJsoP331ir-c.jpg", "https://qcloud.dpfile.com/pc/KZlTU803FHUL6yv5YwlKxKzr1hbbILcE7rb3Ou9ETlJOEcJR1KDvTAshptWfB8DB.jpg", "https://qcloud.dpfile.com/pc/KFfal2v2BMtY8LfQTRdutBpNXbaq22poPIUz8mcRocP3lQpX1lH6T0A_Kszf2ads.jpg", "https://qcloud.dpfile.com/pc/Fx2a1c0fmpC3zSYBu3P_eJBr6ocDrvI00mBAX4jzzP-9ijqymj50mf1q0YCUXJ_W.jpg", "https://qcloud.dpfile.com/pc/9CC9-Ste2a1CtlFRKlcLkZe9BNQVRgi72YMDOgM2uqDbG9ciVZuxF6IX_GtgPLDo.jpg", "https://qcloud.dpfile.com/pc/3Y-IPSVT79xr28HWVSspUoJ882tmr4s-xeBWctxZ2lNAfWVCGDPoQ31N0lUK7dwF.jpg", "https://qcloud.dpfile.com/pc/riEYEDTZ3ZxMfNj3sjhRdqi4TQfgYpwtCuPl_G2Ck70vg8QBUdEQj36-eKKzqnY6.jpg"],
+                "star": {
+                    "title": "总体评价",
+                    "value": 50,
+                    "desc": "超赞"
+                },
+                "recommendDish": null
+            }
+        }, {
+            "commonCouponDTO": {
+                "couponId": "1215418203",
+                "couponName": "鲜牛记潮汕牛肉火锅全店5折通用券",
+                "subTitle": "周二周三可用",
+                "couponType": 1,
+                "primeCost": 130,
+                "discountCost": 5,
+                "discountTag": "5折",
+                "couponStatus": -1,
+                "couponTag": null,
+                "couponPic": "https://p0.meituan.net/activityback/5cde9b498057c9d598e377e54a19db16202260.jpg",
+                "validStart": 1557763200000,
+                "validEnd": 1563118200000,
+                "shopIdCounts": null,
+                "shopIds": null
+            },
+            "shopBaseInfo": {
+                "shopId": 75147453,
+                "shopName": "鲜牛记潮汕牛肉火锅",
+                "branchName": "石景山鲁谷店",
+                "shopPic": "https://img.meituan.net/msmerchant/2fce4d1d15252b92148be779bfe1c1c334776.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+                "power": "45",
+                "region": "",
+                "distance": "",
+                "phoneNo": "68647688",
+                "avgPrice": "121",
+                "shopAddress": "鲁谷路石景山路2号",
+                "doubleDistance": null
+            },
+            "simpleReviewData": {
+                "reviewId": 548159888,
+                "reviewBody": "潮汕火锅渐渐成了我不能割舍的一类\n各类火锅 是我饮食界里的中坚力量\n第一次吃牛宝，羊宝只要不把那层外皮去掉，我就很爱吃，牛宝略逊一筹。\n每次吊龙和嫩肉是必点\n其实吃火锅时我是没有余量吃主食的，也没那欲望。这次朋友点了小馒头，可能是冲着炼乳，我吃了俩[害羞]",
+                "reviewBodyLength": 121,
+                "reviewTime": "05月16日",
+                "qualityScore": 1,
+                "prize": null,
+                "userInfo": {
+                    "userId": 2225317,
+                    "headPic": "https://p0.meituan.net/userheadpicbackend/18689ffdbb5b5cead7f874fb4549567f32846.jpg%4048w_48h_1e_1c_1l%7Cwatermark%3D0",
+                    "nickName": "kaorurong",
+                    "vaildReceiveCount": null,
+                    "vipType": 1,
+                    "level": 7,
+                    "colorLevel": 1,
+                    "userIsPracticingVO": {
+                        "practicing": false,
+                        "pic": null,
+                        "profilePic": null
+                    }
+                },
+                "reviewPic": ["https://qcloud.dpfile.com/pc/ZT3BJVWp2fqNQNpIrfTSTH9zqpddGL4U8ZSNOaL0yBiA3A68eIBgYttkq1hBHcPP.jpg", "https://qcloud.dpfile.com/pc/aNJwb5J-TtPRaj3VX_NaMEo8bqziWIyWOHOU5xH3WufDySTQFYKYTEfrlEqrDyDt.jpg", "https://qcloud.dpfile.com/pc/k97-wsrs7HBPW1SlKoXQGubhhJ_VF933dYQX0F9YRY5TKnts5q52D8GbZbV2sX_z.jpg"],
+                "star": {
+                    "title": "总体评价",
+                    "value": 50,
+                    "desc": "超赞"
+                },
+                "recommendDish": null
+            }
+        }, {
+            "commonCouponDTO": {
+                "couponId": "1468237510",
+                "couponName": "本家韩国料理(双井店)全店6折通用券",
+                "subTitle": "周二可用",
+                "couponType": 1,
+                "primeCost": 132,
+                "discountCost": 6,
+                "discountTag": "6折",
+                "couponStatus": -1,
+                "couponTag": null,
+                "couponPic": "https://p0.meituan.net/activityback/e874d6bb7815801811c33f5418c59566130600.jpg",
+                "validStart": 1557158400000,
+                "validEnd": 1562513400000,
+                "shopIdCounts": null,
+                "shopIds": null
+            },
+            "shopBaseInfo": {
+                "shopId": 14736512,
+                "shopName": "本家韩国料理",
+                "branchName": "双井店",
+                "shopPic": "https://img.meituan.net/msmerchant/290bb22a3843966f7a580f2ca10a6583217749.png%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+                "power": "45",
+                "region": "富力广场，临近华夏银行",
+                "distance": "",
+                "phoneNo": "87764746",
+                "avgPrice": "133",
+                "shopAddress": "广和东三路双井双花园南里3区24号楼底商",
+                "doubleDistance": null
+            },
+            "simpleReviewData": {
+                "reviewId": 549270274,
+                "reviewBody": "媳妇白天累了，于是果断开车接她下班，然后一起吃点儿。正好白天看到了烤肉也好久没吃了，于是直奔本家而来。\n不得不说，本家的小菜是给的最多的，各种满满的一桌子。蔬菜也是长长的一大堆，绝对吃不了。唯一南瓜粥是单收费的，而且并不是特别好喝，不建议单点。\n为了安慰媳妇，点的肉都是比较好的。因为怕热，所以都让服务员帮烤了。牛花肉纹理看起来就很漂亮，烤完也是很嫩。调味横膈膜腌制的很棒，不用蘸料也很好吃。老白吾桑格是招牌，味道还算可以吧，不是特别突出。倒是五花肉非常棒，烤的也很透，用苏子叶包上特别好吃。\n美中不足是，蘸料没有专门的烤肉汁，只有老白吾桑格的汁，感觉蘸没腌过的牛肉味道一般。\n总之，还是很满足的！",
+                "reviewBodyLength": 295,
+                "reviewTime": "05月18日",
+                "qualityScore": 1,
+                "prize": null,
+                "userInfo": {
+                    "userId": 26797955,
+                    "headPic": "https://p0.meituan.net/userheadpicbackend/78435ba797e0c9f8dc8b81829f755d076021.jpg%4048w_48h_1e_1c_1l%7Cwatermark%3D0",
+                    "nickName": "无聊的灯火",
+                    "vaildReceiveCount": null,
+                    "vipType": 1,
+                    "level": 7,
+                    "colorLevel": 1,
+                    "userIsPracticingVO": {
+                        "practicing": false,
+                        "pic": null,
+                        "profilePic": null
+                    }
+                },
+                "reviewPic": ["https://qcloud.dpfile.com/pc/3-_oN7ebysr6umIib66ep1PxHSFgLCJ5DSydvsZ91-ck0Q0599ShPbm4SJMyRbzk.jpg", "https://qcloud.dpfile.com/pc/dGIhAocbgFB3puF_xxXlDE_043ENnkbbq_kEnjL0P9Ej1NKUhiLAcof-RfK--HsU.jpg", "https://qcloud.dpfile.com/pc/Y3t-lOwTgp7L-eM-8OrOt8XJWz9lFVSDImcxj3JJUo8qliLLGSN0FzL6604CTVAS.jpg", "https://qcloud.dpfile.com/pc/8dPNZMzygCil_L7xVVsxDe5MVMV0MWYurXJ7sHsZ7vUmJZKv5yUH3kpNboE6ElBn.jpg", "https://qcloud.dpfile.com/pc/HU-jungCRVuIY_UymqYNT5qNNrTKYy3iMPjqMsOJBSJyZhnHjlA_OcqNGRHw3InY.jpg", "https://qcloud.dpfile.com/pc/VEKegVuzwJHYD3IeiBQbCAoSR536z4hPFDrlFoTUCcgxBLWID-CXDCDzHwnl8rVp.jpg", "https://qcloud.dpfile.com/pc/_tlzoI_F9oWdF9K0zMqsdm0onDiyv7nxfuSkxjtTy2mv-GHOx_pUinGa_Fy-bwpn.jpg"],
+                "star": {
+                    "title": "总体评价",
+                    "value": 50,
+                    "desc": "超赞"
+                },
+                "recommendDish": null
+            }
+        }, {
+            "commonCouponDTO": {
+                "couponId": "1170937067",
+                "couponName": "Pakpak喜悦泰(远洋光华国际店)全店5折券",
+                "subTitle": "周日周一可用",
+                "couponType": 1,
+                "primeCost": 132,
+                "discountCost": 5,
+                "discountTag": "5折",
+                "couponStatus": -1,
+                "couponTag": null,
+                "couponPic": "https://p1.meituan.net/activityback/350b402e5fc234586235ffc5226dcc16153054.jpg",
+                "validStart": 1556467200000,
+                "validEnd": 1561822200000,
+                "shopIdCounts": null,
+                "shopIds": null
+            },
+            "shopBaseInfo": {
+                "shopId": 19648910,
+                "shopName": "PAK PAK喜悦泰餐",
+                "branchName": "远洋光华国际店",
+                "shopPic": "https://img.meituan.net/msmerchant/4ed6bcf931f9648566685508dd0bf85e499936.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+                "power": "50",
+                "region": "世贸天阶东门对面",
+                "distance": "",
+                "phoneNo": "85906956",
+                "avgPrice": "132",
+                "shopAddress": "金桐西路10号远洋光华国际AB座一层东北侧",
+                "doubleDistance": null
+            },
+            "simpleReviewData": {
+                "reviewId": 547419339,
+                "reviewBody": "朋友知道我爱吃泰菜，说这家是点评top1，带我来试试，正好也在我收藏夹[偷笑]周一晚上7点多到的，屋里屋外都基本坐满了，我们只能坐吧台了。上菜速度巨慢...巨慢...巨慢...一个多小时菜都没上齐，最后退掉了。我在今天才知道为什么周一那么多人，因为VIP周日周一领券全单五折，然鹅结账的时候并没有给提示我们，之前去别家也是VIP五折服务员都会提示的...五星好评一是因为菜品味道确实还可以，二是有一个服务员小哥哥白白净净特别帅，而且说话超级温油～颜值战胜了一切～[愉快]\n#虾片#免费小吃，但是味道不错，因为上菜太慢，朋友吃了三盘儿虾片......\n#炸虾饼#泰菜必点～紧实弹牙，搭配的甜辣酱也很好～推荐～\n#黄咖喱牛腩#土豆很软烂，牛腩很入味儿，拌米饭肯定超赞～\n#冬阴功汤#味道OK，但内容略显单薄，只有几只虾和草菇～之前在其他餐厅吃的还有鱿鱼什么的～\n#菠萝饭#也是每次去泰菜必点的，用料很足，腰果、肉松都很多～很推荐～\n虾酱炒空心菜就没等到～这顿饭不是吃饱，是等饱了～",
+                "reviewBodyLength": 411,
+                "reviewTime": "05月15日",
+                "qualityScore": 1,
+                "prize": null,
+                "userInfo": {
+                    "userId": 3166697,
+                    "headPic": "https://p1.meituan.net/userheadpicbackend/8d038e3b47e17a51e8585387d6eb0c101602.jpg%4048w_48h_1e_1c_1l%7Cwatermark%3D0",
+                    "nickName": "琳琳贝贝",
+                    "vaildReceiveCount": null,
+                    "vipType": 1,
+                    "level": 8,
+                    "colorLevel": 1,
+                    "userIsPracticingVO": {
+                        "practicing": false,
+                        "pic": null,
+                        "profilePic": null
+                    }
+                },
+                "reviewPic": ["https://qcloud.dpfile.com/pc/cRwbgoDrIxRFxP_vW1bSb8ioBAaoGW2O2cE2W4tYHvSm5NcBN5EReyCyqNpXiSOc.jpg", "https://qcloud.dpfile.com/pc/kO0oVDWz8EkYXCJ9jGKi8Lc3XFnlx9z7EP9GrIdJIFW-UhjvYTJFerXjRcdhy0xd.jpg", "https://qcloud.dpfile.com/pc/IbwvyEEm5xVRV2I6uH-M73YR-wjOoaJIhyiaa2KOPdtmjDt2OW_Af5Bp18shWGUp.jpg", "https://qcloud.dpfile.com/pc/ZPW0KqAeQtnkUD8hkmhyxaXqKdeJar1nv9QAwH1ESQ-tWC9vM0aQA9t1m2PuU1xU.jpg", "https://qcloud.dpfile.com/pc/rpheZy6EcaTlSY_fYXqPoSwN7U6UzuQfF-B5Nu4QRn0sr_8_s-LoetaL-McV4SZn.jpg", "https://qcloud.dpfile.com/pc/pO86leRGunihT9mV_uuI5FMysRkWsPplJiThN_ExiAUp4rvkTr6BfTsD8-EpmEVF.jpg"],
+                "star": {
+                    "title": "总体评价",
+                    "value": 50,
+                    "desc": "超赞"
+                },
+                "recommendDish": null
+            }
+        }]
+    },
+    "status": true
+}
