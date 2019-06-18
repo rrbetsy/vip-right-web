@@ -13,7 +13,8 @@ export default {
   },
   methods:{
       backClick(){
-          alert('back')
+        history.go(-1)
+          // alert('back')
       }
   }
 }

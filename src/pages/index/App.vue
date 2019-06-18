@@ -10,6 +10,7 @@
     <SeparateBar></SeparateBar>
     <ShopList></ShopList>
     <DividerBar></DividerBar>
+    <router-view></router-view>
   </div>
 </template>
 
@@ -20,8 +21,8 @@ import DividerBar from '../../components/DividerBar.vue'
 import SeparateBar from '../../components/SeparateBar.vue'
 import TabBar from './components/TabBar.vue'
 import ShopList from './components/ShopList.vue'
-import PartLine from './components/PartLine.vue'
-import HelloWorld from './components/HelloWorld.vue'
+// import PartLine from './components/PartLine.vue'
+// import HelloWorld from './components/HelloWorld.vue'
 
 export default {
    components:{
@@ -31,7 +32,7 @@ export default {
      SeparateBar,
      TabBar,
      ShopList,
-     PartLine
+    //  PartLine
    }
 }
 </script>

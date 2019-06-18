@@ -1,5 +1,5 @@
 <template>
-  <div class="list-item">
+  <router-link to='/detail' class="link-wrap"><div class="list-item">
     <div class="shop-name">{{shopInfo.shopBaseInfo.shopName}}</div>
     <div class="star-distance">
      <div class="star-avgprice">
@@ -31,7 +31,7 @@
        <div class="take-coupon">{{takeCoupon}}</div>
      </div>  
      <SeparateBar></SeparateBar> 
-  </div>
+  </div></router-link>
 </template>
 
 <script>
@@ -70,6 +70,10 @@ export default {
 <style scoped>
   /* .list-item{
   } */
+  .link-wrap{
+    display: block;
+    text-decoration: none;
+  }
   .shop-name{
     margin-top: 10px;
     margin-left: 20px;
