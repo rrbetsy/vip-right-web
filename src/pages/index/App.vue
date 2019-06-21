@@ -10,7 +10,6 @@
     <SeparateBar></SeparateBar>
     <ShopList></ShopList>
     <DividerBar></DividerBar>
-    <router-view></router-view>
   </div>
 </template>
 

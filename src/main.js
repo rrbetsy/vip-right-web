@@ -2,9 +2,9 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 import App from './App.vue'
-import Index from './pages/index/App.vue'
 
 //引入路由组件
+import Index from "./pages/index/App.vue";
 import DetailPage from './pages/detail/App.vue'
 //定义路由
 const routes = [
